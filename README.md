@@ -7,8 +7,11 @@ I started seriously learning to code during the pandemic. Since then, I've been 
 So far, I've completed a game jam, participated in the first Hunter College hackathon (where I helped build an app), built several small games, and continue to learn and grow with every project. I'm especially interested in interactive storytelling, gameplay mechanics, and building experiences that make people feel something.
 
 🎮 I'm especially passionate about immersive storytelling, gameplay mechanics, and building experiences that make people feel something.
+
 💻 I’ve worked with Unity, shaders, particle effects, and player movement systems.
+
 📚 I’m always learning, currently focused on discrete math and sharpening my problem-solving skills.
+
 🚀 I’ve completed a game jam, built several small games, and I’m working toward creating my own game from scratch.
 
 Thanks for stopping by—feel free to check out my work or connect with me:
