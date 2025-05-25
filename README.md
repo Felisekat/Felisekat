@@ -14,7 +14,7 @@ So far, I've completed a game jam, participated in the first Hunter College hack
 
 🚀 I’ve completed a game jam, built several small games, and I’m working toward creating my own game from scratch.
 
-Thanks for stopping by—feel free to check out my work or connect with me:
+Thanks for stopping by, feel free to check out my work or connect with me:
 
 🔗 !GitHub https://github.com/felisekat 
 🎮 !Itch.io http://itch.io/felisekat 
