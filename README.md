@@ -16,5 +16,7 @@ So far, I've completed a game jam, participated in the first Hunter College hack
 
 Thanks for stopping by—feel free to check out my work or connect with me:
 
-🔗 !GitHub 🎮 !Itch.io 🌐 !Linktree
+🔗 !GitHub https://github.com/felisekat 
+🎮 !Itch.io http://itch.io/felisekat 
+🌐 !Linktree https://linktr.ee/felisekat
 
